@@ -12,7 +12,7 @@ module.exports = {
     filePath: 'your target change file path',
     file: 'your target change file that you want to add',
     from: 'from date', // YYYY-MM-DD
-    end: 'from date' // YYYY-MM-DD
+    end: 'end date' // YYYY-MM-DD
 }
 
 // for example
