@@ -2,6 +2,10 @@
 
 a Nodejs project based on "nodegit" to change git commit date, then, make your github commit log all green !
 
+## configuration
+
+node >= 7.6.0 (Async Function Support)
+
 ## usage
 
 - fork this repo
