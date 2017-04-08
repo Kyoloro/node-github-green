@@ -32,4 +32,4 @@ node >= 7.6.0 (Async Function Support)
 
 # tips
 
-if you do not want to return target file and push it, you can insert your password at the `config.js`, and cancel some annotations at the `index.js` about the password. **Note** ! if you do this, you need clone the target repo with the https protocol not the git protocol .
+if you do not want to return target file and push it, you can insert your password at the `config.js`, and cancel some comments at the `index.js` about the password. **Note** ! if you do this, you need clone the target repo with the https protocol not the git protocol .

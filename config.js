@@ -5,7 +5,7 @@ module.exports = {
     username: 'your git username',
     
     // if you need it ,  you need use https protocal to clone your target file .
-    // and cancel some annotations at index.js about the password . 
+    // and cancel some comments at index.js about the password . 
     // password: '***',
 
     email: 'your git email',
