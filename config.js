@@ -1,6 +1,7 @@
 'use strict'
 
 module.exports = {
+    //for example '${path}'
     repoPath: 'your target repo path',
     username: 'your git username',
     
@@ -9,7 +10,9 @@ module.exports = {
     // password: '***',
 
     email: 'your git email',
+    //for example '${path}/data'
     filePath: 'your target change file path',
+    // for example 'data'
     file: 'your target change file that you want to add',
     from: 'from date', // YYYY-MM-DD
     end: 'end date' // YYYY-MM-DD
